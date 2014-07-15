@@ -1,0 +1,1 @@
+An AsyncTask Template shows how to decouple asyntask class from activity class.
